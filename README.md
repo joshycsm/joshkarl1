@@ -7,3 +7,6 @@ bye
 
 # Karl's first change
 hello world!
+
+#Merge conflict
+fights!
