@@ -15,6 +15,3 @@ fights!
 
 <!--this is a change for the practice branch hopefully-->
 hello...goodbye
-
-<!-- this should work now on this 8th commit -->
-yay!
